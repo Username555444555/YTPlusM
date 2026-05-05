@@ -125,6 +125,8 @@ PS: DIY=DO IT YOURSELF
 ## YTPlusM DIY versions changelog
 <li><strong>1.0:</strong></li>
 First release, added YTweaks, Gonerino and YouSpeed injectable
+<li><strong>1.1:</strong></li>
+Finally! YTLowContrastMode added, supporting also newest YT IPAs
 
 ## Supported YouTube Version
 <ul>
@@ -134,7 +136,7 @@ First release, added YTweaks, Gonerino and YouSpeed injectable
 </ul>  
 
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>21.17.3</em></li>
+   <li><strong>Latest confirmed:</strong> <em>21.18.4</em></li>
    <li><strong>Date tested:</strong> <em>May 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>

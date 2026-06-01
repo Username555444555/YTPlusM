@@ -131,7 +131,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## What Means YTPlusM and YTPlusM DIY
 <li><strong>YTPlusM:</strong></li>
-<p><strong>YTPlusM</strong> is a fork of <a href="https://github.com/dayanch96/YTLite">YTPlus</a> but with <strong>six more tweak integrated</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a>, <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>, <a href="https://github.com/arichornlover/YTLowContrastMode">YTLowContrastMode</a>, <a href="https://github.com/VasirakCalgux/VolumeBoostYT">VolumeBoostYT</a> and <a href="https://github.com/PoomSmart/YouGetCaption">YouGetCaption</a>)</p>
+<p><strong>YTPlusM</strong> is a fork of <a href="https://github.com/dayanch96/YTLite">YTPlus</a> but with <strong>six more tweak integrated</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a>, <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>, <a href="https://github.com/arichornlover/YTLowContrastMode">YTLowContrastMode</a>, <a href="https://github.com/VasirakCalgux/VolumeBoostYT">VolumeBoostYT</a> and <a href="https://github.com/PoomSmart/YouGetCaption">YouGetCaption</a>). <strong>YTPlus releases will not have those extra tweaks, but only YTLite and YouPiP, YTUHD, Return-YouTube-Dislikes, YouQuality, DontEatMyContent and YTABConfig.</strong></p>
 
 
 <li><strong>YTPlusM DIY:</strong></li>
@@ -168,8 +168,6 @@ Added VolumeBoostYT and YouGetCaption
    <li><strong>Latest confirmed:</strong> <em>20.21.6</em></li>
    <li><strong>Date tested:</strong> <em>Apr 12 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
-   View <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_20.21.6(88)">this release (YouTube Plus)</a> and <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_20.21.6(89)">this release (YTPlusM)
-</ul>
 
 ## Tweak Integration Details
 <details>

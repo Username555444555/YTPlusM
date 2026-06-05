@@ -9,6 +9,8 @@
   The best fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 </p>
 
+<p><strong>THANK YOU ALL VERY MUCH FOR THE 100 STARS</strong></p>
+
 <strong>Updates will be published in Releases tab and in the <a href="#download-table">Download table</a>.</strong>
 
 <strong>Fork this repo to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
